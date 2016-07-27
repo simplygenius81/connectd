@@ -1,0 +1,18 @@
+{
+  "name": "temp",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/melaniemariam/Temp"
+  },
+  "homepage": "https://github.com/melaniemariam/Temp",
+  "_release": "5786982ecc",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "5786982ecc2bea7dee0385555d541fb920f934fa"
+  },
+  "_source": "https://github.com/melaniemariam/Temp.git",
+  "_target": "*",
+  "_originalSource": "testing",
+  "_direct": true
+}
